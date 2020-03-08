@@ -4,6 +4,18 @@
 
 **OTP** is a set of Erlang libraries, which consists of the Erlang runtime system, a number of ready-to-use components mainly written in Erlang, and a set of design principles for Erlang programs. [Learn more about Erlang and OTP](http://erlang.org/doc/system_architecture_intro/sys_arch_intro.html).
 
+## Docker Container
+
+Erlang was instaled over `developer` linux user. To runs `erl`, execute:
+
+```
+# su developer
+```
+then:
+```
+$ erl
+```
+
 ## Build
 
 ```

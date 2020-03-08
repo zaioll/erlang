@@ -6,6 +6,7 @@ SHELL ["/bin/bash", "-c"]
 
 ENV otp_version=22.2
 
+ENV usuario developer
 ENV LANG pt_BR.UTF-8
 ENV LANGUAGE pt_BR.UTF-8
 
